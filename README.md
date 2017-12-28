@@ -74,7 +74,7 @@
 	color:white;text-align: center;
 vertical-align: middle;
 line-height: 110px;
-font-size:11px;
+font-size:14px;
 font-family: 'Open Sans', sans-serif;
 ;   }
 
