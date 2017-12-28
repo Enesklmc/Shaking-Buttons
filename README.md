@@ -9,11 +9,6 @@
 
 #my_centered_buttons { display: flex; justify-content: center; overflow:hidden;}
 
-/* dor older internet explorer
-
-#my_centered_buttons_older { margin: 0 auto; width: 180px; }
-
-*/
 
 .btn-shake{
 
