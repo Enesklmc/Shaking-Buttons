@@ -8,8 +8,8 @@
 
 
 #my_centered_buttons { display: flex; justify-content: center; overflow:hidden;}
-
-
+...
+...
 .btn-shake{
 
 	border-radius:50%;
